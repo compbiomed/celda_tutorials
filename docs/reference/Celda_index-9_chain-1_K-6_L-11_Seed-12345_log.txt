@@ -1,0 +1,14 @@
+-------------------------------------------------------------------- 
+Starting Celda_CG: Clustering cells and genes. 
+-------------------------------------------------------------------- 
+Thu Sep 06 13:00:39 2018 .. Initializing chain 1 with 'random' (seed=12345) 
+Thu Sep 06 13:00:39 2018 .... Completed iteration: 1 | logLik: -1280449.21239078
+Thu Sep 06 13:00:39 2018 .... Completed iteration: 2 | logLik: -1249711.60682029
+Thu Sep 06 13:00:39 2018 .... Completed iteration: 3 | logLik: -1249706.63798006
+Thu Sep 06 13:00:39 2018 .... Completed iteration: 4 | logLik: -1249707.87272804
+Thu Sep 06 13:00:39 2018 .... Completed iteration: 5 | logLik: -1249705.88225703
+Thu Sep 06 13:00:39 2018 .... Completed iteration: 6 | logLik: -1249707.5042295
+Thu Sep 06 13:00:39 2018 .... Completed iteration: 7 | logLik: -1249708.94461482
+Thu Sep 06 13:00:39 2018 .... Completed iteration: 8 | logLik: -1249705.94259505
+Thu Sep 06 13:00:39 2018 .... Completed iteration: 9 | logLik: -1249705.34893603
+Thu Sep 06 13:00:39 2018 .... Determining if any cell clusters should be split.

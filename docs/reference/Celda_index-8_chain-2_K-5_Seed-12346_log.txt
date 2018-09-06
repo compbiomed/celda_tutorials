@@ -1,0 +1,14 @@
+-------------------------------------------------------------------- 
+Starting Celda_C: Clustering cells. 
+-------------------------------------------------------------------- 
+Thu Sep 06 12:58:22 2018 .. Initializing chain 1 with 'random' (seed=12346) 
+Thu Sep 06 12:58:22 2018 .... Completed iteration: 1 | logLik: -1383993.83150535 
+Thu Sep 06 12:58:22 2018 .... Completed iteration: 2 | logLik: -1358078.99551138 
+Thu Sep 06 12:58:22 2018 .... Completed iteration: 3 | logLik: -1358078.99551138 
+Thu Sep 06 12:58:22 2018 .... Completed iteration: 4 | logLik: -1358078.99551138 
+Thu Sep 06 12:58:22 2018 .... Completed iteration: 5 | logLik: -1358078.99551138 
+Thu Sep 06 12:58:22 2018 .... Completed iteration: 6 | logLik: -1358078.99551138 
+Thu Sep 06 12:58:22 2018 .... Completed iteration: 7 | logLik: -1358078.99551138 
+Thu Sep 06 12:58:22 2018 .... Completed iteration: 8 | logLik: -1358078.99551138 
+Thu Sep 06 12:58:22 2018 .... Completed iteration: 9 | logLik: -1358078.99551138 
+Thu Sep 06 12:58:22 2018 .... Determining if any cell clusters should be split.
